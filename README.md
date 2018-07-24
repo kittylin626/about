@@ -8,8 +8,10 @@ I graduated from UC Berkeley in 2015 and I am currently an Investment Analyst at
 
 
 
-[LinkedIn](https://www.linkedin.com/in/kittylin626/)</br>
-[Goodreads](https://www.goodreads.com/kittylin626) </br>
+[LinkedIn](https://www.linkedin.com/in/kittylin626/)
+
+[Goodreads](https://www.goodreads.com/kittylin626)
+
 [Letterboxd](https://letterboxd.com/keetylin/)
 
 
