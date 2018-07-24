@@ -1,37 +1,15 @@
-## Welcome to GitHub Pages
+## Welcome to My Page
 
-You can use the [editor on GitHub](https://github.com/kittylin626/about/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+My name is Kitty Lin and I'm a curious cat living in Oakland, CA. I enjoy various creative pursuits, learning, reading non-fiction, watching films, traveling internationally, and exploring what my local neighborhood has to offer. My mind is always planning on what to do next and I tend to have a long list of projects that I want to complete. On the top of that list is learning how to program.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+I graduated from UC Berkeley in 2015 and I am currently an Investment Analyst at Milliman. Prior to that, I worked at another consulting firm and a FinTech startup. 
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
+[LinkedIn](https://www.linkedin.com/in/kittylin626/)
+[Goodreads](https://www.goodreads.com/kittylin626)
+[Goodreads](https://letterboxd.com/keetylin/)
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/kittylin626/about/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
