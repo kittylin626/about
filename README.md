@@ -7,6 +7,7 @@ I graduated from UC Berkeley in 2015 and I am currently an Investment Analyst at
 
 
 
+[Email](kittylin1994@gmail.com)
 
 [LinkedIn](https://www.linkedin.com/in/kittylin626/)
 
