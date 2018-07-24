@@ -14,4 +14,6 @@ I graduated from UC Berkeley in 2015 and I am currently an Investment Analyst at
 
 [Letterboxd](https://letterboxd.com/keetylin/)
 
+[Instagram](https://www.instagram.com/il.conformista/)
+
 
