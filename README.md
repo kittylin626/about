@@ -1,4 +1,4 @@
-## Welcome to My Page
+## Greetings!
 
 My name is Kitty Lin and I'm a curious cat living in Oakland, CA. I enjoy various creative pursuits, learning, reading non-fiction, watching films, traveling internationally, and exploring what my local neighborhood has to offer. My mind is always planning on what to do next and I tend to have a long list of projects that I want to complete. On the top of that list is learning how to program.
 
